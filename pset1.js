@@ -2,7 +2,8 @@
 PROBLEM 1:
 
 Follow the following steps ONLY using your command line:
-
+1. Nav into downloads 
+cd Downloads 
 1. Navigate to your Desktop directory.
 2. Create a directory called my_first_direc.
 3. Enter the my_first_direc directory.
